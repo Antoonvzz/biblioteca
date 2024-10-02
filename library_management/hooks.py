@@ -1,7 +1,7 @@
 app_name = "library_management"
-app_title = "Library Management"
+app_title = "Library management"
 app_publisher = "Anton"
-app_description = "library management"
+app_description = "library"
 app_email = "library@example.com"
 app_license = "mit"
 
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "library_management",
 # 		"logo": "/assets/library_management/logo.png",
-# 		"title": "Library Management",
+# 		"title": "Library management",
 # 		"route": "/library_management",
 # 		"has_permission": "library_management.api.permission.has_app_permission"
 # 	}
